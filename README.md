@@ -24,10 +24,10 @@ Mata Pelajaran:
 5. Nilai OOP
 
    JAWABAN
-   USER/PW :   walas / 12345
-               Anto / anto1643
-               Nayla / nayla164
-               Jihan / jihan1645
+   USER/PW :   -walas / 12345
+               -Anto / anto1643
+               -Nayla / nayla1644
+               -Jihan / jihan1645
    
 Catatan, Kalian bisa merubah nama, password, dan nilai pada program yang tertulis seperti ini.
 ```
