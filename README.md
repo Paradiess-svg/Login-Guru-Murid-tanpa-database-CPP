@@ -20,3 +20,5 @@ Mata Pelajaran:
 3. Bahasa Indonesia
 4. English
 5. Nilai OOP
+
+   <b>PROGRAM INI SUDAH SELESAI</b>
