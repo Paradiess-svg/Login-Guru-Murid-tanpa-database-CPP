@@ -1,6 +1,8 @@
 # Login-Guru-Murid-tanpa-database-CPP
 Program Login CPP tanpa database sederhana dengan user guru dan murid dengan masalah / soal yang tertera pada Readme.md
 
+   <b>CATATAN, PROGRAM INI SUDAH SELESAI. NAMA FILE TEST KARENA BELUM SEMPAT DIUBAH SEBELUM UPLOAD</b>
+
 Buatlah pemrograman C++ dengan ketentuan:
 User: Admin
 - Login dengan username: walas dan password: 12345
