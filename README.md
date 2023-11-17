@@ -1,7 +1,7 @@
 # Login-Guru-Murid-tanpa-database-CPP
 Program Login CPP tanpa database sederhana dengan user guru dan murid dengan masalah / soal yang tertera pada Readme.md
 
-   <b>CATATAN, PROGRAM INI SUDAH SELESAI. NAMA FILE TEST KARENA BELUM SEMPAT DIUBAH SEBELUM UPLOAD</b>
+   <b>CATATAN, PROGRAM INI SUDAH SELESAI. PROGRAM BEBAS DIPERGUNAKAN SECARA PUBLIK KHUSUSNYA PENDIDIKAN</b>
 
 Buatlah pemrograman C++ dengan ketentuan:
 User: Admin
@@ -23,4 +23,17 @@ Mata Pelajaran:
 4. English
 5. Nilai OOP
 
-   <b>PROGRAM INI SUDAH SELESAI</b>
+   JAWABAN
+   USER/PW :   walas / 12345
+               Anto / anto1643
+               Nayla / nayla164
+               Jihan / jihan1645
+   
+Catatan, Kalian bisa merubah nama, password, dan nilai pada program yang tertulis seperti ini.
+```
+         {"Anto", "anto1643", {75, 83, 80, 72, 82}},
+        {"Nayla", "nayla1644", {80, 90, 80, 95, 85}},
+        {"Jihan", "jihan1645", {89, 79, 90, 79, 78}}
+```
+
+Yap kalian benar, data mereka didalam Array.
